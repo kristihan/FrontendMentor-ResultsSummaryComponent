@@ -5,7 +5,7 @@ This is my solution to the [Results summary component challenge on Frontend Ment
 ![](./screenshot.png)
 
 ## Link
-[Live Site URL](https://kristihan.github.io/Frontend-Mentor-Results-Summary-Component/)
+[Live Site URL](https://kristihan.github.io/FrontendMentor-ResultsSummaryComponent/)
 
 ## Built with
 - Semantic HTML5 markup
